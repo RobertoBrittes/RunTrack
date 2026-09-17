@@ -87,4 +87,4 @@ Adicionar observações.
 
 ---
 
-**Versão do documento:** 1.0
+**Versão do documento:** 1.2
